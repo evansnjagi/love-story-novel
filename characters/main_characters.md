@@ -1,6 +1,6 @@
 # Main characters
 
-## 1. The yound man(protagonist)
+## 1. The young man(protagonist)
 
 - **Name** - Daev
 - **Background** -  Daev starts life with nothing. He has faced and experienced real life struggles, loneliness, and emotional emptiness before meeting the love of his life
@@ -43,6 +43,6 @@ He struggles to hold on to hope that he'll finally get someone better and accept
     - Emotionally intelligent
     - Protective
     - Hardworking
-- **Relationship with Daev** - Destiny brought them together and their connection has grown stronger.At first they are lover, she almost became the gentlemans wife, unfortunately worst happened.
+- **Relationship with Daev** - Destiny brought them together and their connection has grown stronger. At first they are lover, she almost became the gentlemans wife, unfortunately worst happened.
 - **Mystery element** - Were they both in love? For Daev, they broke up out of love. For Evda, is something else. 
 - **Emotional impact** - Her leaving becomes the emotional wound that drives this entire story.

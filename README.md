@@ -34,3 +34,4 @@ Folder details:
 - world/ -> Settings, locations and timelines.
 - notes/ -> Build ideas and brainstorming.
 - outline.md -> Story roadmap.
+
