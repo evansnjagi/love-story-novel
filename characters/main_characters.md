@@ -46,3 +46,34 @@ He struggles to hold on to hope that he'll finally get someone better and accept
 - **Relationship with Daev** - Destiny brought them together and their connection has grown stronger. At first they are lover, she almost became the gentlemans wife, unfortunately worst happened.
 - **Mystery element** - Were they both in love? For Daev, they broke up out of love. For Evda, is something else. 
 - **Emotional impact** - Her leaving becomes the emotional wound that drives this entire story.
+
+## Supporting characters
+
+The following are the supporting characters with clear roles to support the hero(Daev) or stand against him:
+
+1. **Best friend:** 
+
+    - **Name** - Gidi
+    - **Purpose** - Advice, Humor, Emotional-supporter and Inciter.
+
+**Gidi** is a childhood friend who knows his pain. He talks to the protagonist frequently to know how he's fairing on with life. 
+
+2. **Family member:**
+
+    - **Name** - Mbai
+    - **Purpose** - responsibility, Emotional pressure, and Supporter.
+
+3. **Family member (2):**
+
+    - **Name** - Claire
+    - **Purpose** - Connection and motivation figure.
+
+4. **Rival:**
+
+    - **Name** - Michael
+    - **Purpose** - Competition, danger, create jealousy and tesnion.
+
+5.  **Mentor:**
+
+    - **Name** - Davie
+    - **Purpose** - Wisdom, guidance and hidden truth.
