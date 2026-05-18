@@ -26,34 +26,9 @@ A young man, who once had nothing, unexpectedly finds the love of his life at hi
 
 ## Story outline
 
-### Act 1 - The Empty life
+### Act 1: The empty life
 
-Daev lives under the weight of lonliness and financial struggles. He works hard, dream of success and hope life will one day change.
+After finishing school, Daev moves to a rapidly growing town called *Necta*. He starts his new life there with almost nothing. Life in Necta is difficult, filled with poverty, uneployment, theft, corruption cases, and constant struggles, but Daev refuses to give up.
 
-### Act 2 - A shred of hope
+As time passes, he begins to feel a deep emotional emptiness growing inside him. Despite the warmth of the people around him, he feels isolated. At times, he is tempted to escape his pain through drugs, but something inside him continue to resist.
 
-Out of pity, he's taken to further his studies. He vows to study even harder and make himself proud. Make himself proud indeed! Along the way, life take on him and he is at the verge of giving up. Fortunately, he complites the four-year degree but he's hopeless.
-
-### Act 3 - Light appers
-
-While he was studying, he kept his head up. Upskilling and never falling for love. At his lowest, Evda unexpectedly enters his life. Her kindness, warmth and cuteness bring peace into Daev's broken life.
-
-### Act 4 - Love begins
-
-### Act 5 - Passion, intimacy and commitment
-
-### Act 6 - The attachment
-
-### Act 7 - Cracks beneath the surface
-
-### Act 8 - Hearbreak
-
-### Act 9 - One is never enough
-
-### Act 10 - Lazy love
-
-### Act 11 - Stone heart
-
-### Act 12 - Beyond love
-
-### Act 13 - Final choice
