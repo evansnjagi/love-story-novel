@@ -1,34 +1,34 @@
 # **Necta town**
 
-Necta is a rapidly growing town after a new trade route passes through the town. The physical environment is hash, nonetheless, love grows and families are happy.    
+Necta is a rapidly growing town that expanded after a major trade route began passing through it. Although, the physical environment is harsh, love continues to grow and families find happiness there.    
 
-Town profile:
+## Town profile:
 
-## Physical environment
+### Physical environment
 
 1. Dusty roads
-2. Strong scorching sunlight
-3. Water shortages
-4. Fast population growth
+2. Scorching sunlight
+3. Frequent water shortages
+4. Rapid population growth
 
 ## Emotional atmosphere
 
 1. Poverty mixed with hope
 2. Hight ambitions
-3. People try to build a better future
-4. Survival at extreme cases
+3. A strong desire to build a better future
+4. Survival under extreme conditions
 
 ## Social problems
 
 1. Theft 
-2. Water 
+2. Water scarcity
 3. Corruption
-4. Floods
+4. Flooding
 5. Unemployment
 6. Rising cost of living
 
-Despite its harsh environment, Necta is still a go to choice for startup families and youths starting to live life of their own. 
+Despite its harsh environment, Necta still remains a popular choice for young people and startup families trying to build life of their own. 
 
-People around are warm, sweet and take care of each other like families. 
+The people are warm, kind and caring, often treating one another like family.
 
-At the streets the food is sweet and far ahead there is a pretty hill called *Necta hills*.
+Along the streets, the aroma of delicious food fills the air, and beyond the town lies a beautiful hill known as *Necta hills*.
