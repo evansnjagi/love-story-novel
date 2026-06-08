@@ -1,7 +1,14 @@
 # love-story-novel
 
-A professional novel project written step by step in GitHub Codespaces.
+## Genre
 
+The genre of this story is: Romance/Drama
+
+## Themes
+
+Love, betrayal, affection, rust, etc...
+
+## Core premise
  The story follows two young teenagers who fall in love. Just when the man believes he has found the love of his life, he loses her when everything fails to go as planned.
 
 

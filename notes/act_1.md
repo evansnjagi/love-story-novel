@@ -1,23 +1,38 @@
-# Act 1.
+# Act 1: The Empty Life.
 
-## Scene 1
-Daev is lonely, struggling with life, and has a huge emotional emptiness. After finishing school, he goes to Necta town in search for a job. 
+## Scene 1 - Arrival in Necta
+Daev lives with a deep emotional emptiness. Although he recently finished school, he feels lost, lonely, and uncertain about his future. With no clear direction in life and very few opportunities back home, he travels to Necta in search for a job and a fresh beginning.
 
-## Scene 2
-He gets a job as a cashier in one of the biggest hotels, As a smart guy he is, he start building his life.
+At first, the town is overwhelming with crowded streets, constant movements, dusty air, and people constantly struggling to survive. Yet beneath the chaos, Daev senses something strangely hopeful about the place.
 
-Life in Necta is now a walk in the part. There are many struggles. As the town is rapidly growing, Daev is trying to keep up with the pace. 
+## Scene 2 - The first job
 
+After weeks of searching, Daev finally secures a job as a cashier at one of the largest hotels in Necta. Intelligent, disciplined, and observant, he slowly begins to build his life from nothing. 
 
-## Scene 3
-Alot is happening everyday as everyone is bussy doing their work, moving rapidly from one point to another. To afford a mere basic needs in Necta, one must work extremery very hard, Daev does this everyday. Although he is not providing for anyone, he must work to cater for his needs.
+However, life in Necta is far from easy. The town grows faster that it's system can support, creating daily struggles for ordinary people. Prices continue rising, jobs becomes unstable, and competition is everywhere. Daev continues to work hard and keep up with the pace while trying not to lose himself in the process.
 
-Along the way life gets tougher and he move in to a new dorm house. He is now living with his long time friend who happened to move there in search for a job.
+## Scene 3 - Survival
 
+Everyday in Necta feels like a race. Crowds moves endlessly through the street, everyone chasing money, food, opportunities or survival. To afford even the most basic need, one must work relentlessly, and Daev quickly becomes part of that exhausting cycle.
 
-## Scene 4
-Insane, the name of his friend, is a wonderful guy but very lazy. He threw his life into entertainment. Getting drunk every single day and comming back home very late at night and sometimes early in the morning. He does not provide anything in the house. All responsibilities goes to Daev.
+Despite living alone and having no family to support, he finds himself constantly overwhelmed by expenses and pressure. As life becomes more difficult, he moves into a smaller dormitory house to cut on cost. 
 
+There, he reunites with an old friend who happened to have moved to Necta in search for a job and a better life.
 
-## Final scene
-After a yearslong of stuggles Daev now decides to join the university. He got lucky and is accepted to the mighty Moi University in Eldoret.
+## Scene 4 - Gidi
+
+His friends name is Gidi.
+
+Gidi is naturally charming, funny and easy to like, but he lacks discipline and direction. Rather than building his future, he indulges into entertainment, alcohol and nightlife.
+
+Most nights, Gidi returns home heavily drunk, sometimes late at night and other times at dawn. He contributes almost nothing to the house, leaving Daev to carry all the responsibilities alone.
+
+At first, Daev tolerates the behavior out of friendship. But as months pass, the burden slowly begins draining him emotionally, financially and mentally.
+
+## Final scene - A new direction
+
+After years of struggle, exhaustion and emotional emptiness, Daev reaches a turning point in his life. He realizes he can not remain trapped in the same poverty cycle forever. 
+
+Determined to change his future, he applies for university and is unexpectedly accepted at Moi University.
+
+For the first time in many year, Daev is hopeful and determined to change his life into something meaningful.
