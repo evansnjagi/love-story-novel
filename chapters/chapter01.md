@@ -5,5 +5,4 @@ Daev awoke to birdsong drifting through his window, soft and unhurried, as if th
 
 For a moment, he stood still. The cold morning air pricked his skin, against the warmth his blanket had left behind. More than anything, Daev wanted to move out, stop begging for money, and live freely with the woman he loved. 
 
-For a moment, he stood silently in the cold room. More than anything, Daev wanted to move out and start his own life, a life without strict rules, one he could finally do whatever he wanted.
-
+He looked back at his bed, standing there longer than he intended. For more than ten years, he had slept on it through cold nights, early dawns, and restless evenings.Today was the day he would leave it behind.
