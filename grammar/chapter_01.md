@@ -1,71 +1,90 @@
-# Chapter 1: The empty life
+# Chapter 1: The Empty Life
 ---
-## What learned
+## What I Learned
 
-### Date: 21st July, 2026.
+### Date: 21st July, 2026
 
-In English grammar, there are three types of articles. Each article has a different use case and context. Below is a table showing an article, it's usage, and examples.
+In English grammar, there are three types of articles. Each article has a different use case and context. Below is a table showing an article, its usage, and examples.
 
-|Article|Usage|Correct Example|Wrong Example|
-|-------|-----|---------------|-------------|
-| 1. **a** | We use article *a* before a singular countable noun starting with a consonant sound.The word should not have a clear meaning (indefinate)|a bed, a cow, a lion, a cat examination, a cheap car, etc |a elephant(wrong article), a water (water is uncountable), etc  2. **an** |We use article *an* before singular countable nouns starting with a vowel sound. It's used in indefinate cases, cases we don't have a clear meaning of the word.|an elephant, an examination, an exercise, an alarm, an evening, etc|Before any word that is uncountable or any definate word(Words that have a clear meaning. Both the writer and reader knows about them.)| 3. **the** |Article *the* is a definate article. It's used when both the reader and writer knows exactly which thing is reffered.| The bed he slept on for ten years - The writer and the reader knows exactly which bed is being reffered.| The water was given. Water is uncountable now, so we should not have an article before it.|4. No article| Whenever we have uncountable nouns, we don't use any articles. Other places where no article is needed is when we have general nouns like sleep, birdsongs, etc.| When we have a countable noun, never leave the article.
+| Article | Usage | Correct Example | Wrong Example |
+|---------|-------|------------------|----------------|
+| **a** | We use the article *a* before a singular countable noun starting with a consonant sound. The word should not have a clear meaning (indefinite). | a bed, a cow, a lion, a cat, a cheap car | a elephant (wrong article), a water (water is uncountable) |
+| **an** | We use the article *an* before a singular countable noun starting with a vowel sound. It's used in indefinite cases — cases where we don't have a clear referent for the word. | an elephant, an examination, an exercise, an alarm, an evening | Before any word that is uncountable or any definite word (a word that has a clear referent both the writer and reader already know) |
+| **the** | *The* is a definite article. It's used when both the reader and writer know exactly which thing is referred to. | The bed he slept on for ten years — the writer and the reader know exactly which bed is being referred to. | The water was given. (Water is uncountable, so no article should precede it.) |
+| *no article* | Whenever we have uncountable nouns, we don't use any article. No article is also used with general nouns like sleep, birdsong, etc. | — | When we have a countable noun, never drop the article. |
 
 **The Article Rule**
 
-1. First mention - Use article *a* or *an* when introducing something new. Example: He saw a dog in the street.
-2. Second mention - Use article *the* when the reader and writer know about the thing reffered to(second mention). Example: The dog barked at him
+1. **First mention** — Use *a* or *an* when introducing something new. Example: He saw a dog in the street.
+2. **Second mention** — Use *the* once the reader and writer both know about the thing referred to. Example: The dog barked at him.
 
-**Full sentence**: He saw a dog in the street. The dog barked at him. You can also connect the two clauses with a punctuation mark: semicolon(;). The sentence will be writen as follows: He saw a dog; the dog barked at him. This example leads us to our next step: sentence connection. 
+**Full sentence:** He saw a dog in the street. The dog barked at him. You can also connect the two clauses with a semicolon: He saw a dog; the dog barked at him. This example leads us to our next step: sentence connection.
 
 **Sentence Connection**
 
 Connect two clauses using:
 
-1. **Coordination** : Use this when you want to join two equal ideas. Use: and, but, or, so, yet, etc. Example: I want to go home, yet I am hungly. Another example, He was tired, but he kept waiting.
+1. **Coordination** — Use this when you want to join two equal ideas: and, but, or, so, yet, etc. Example: I want to go home, yet I am hungry. Another example: He was tired, but he kept waiting.
 
-2. **Subordinate** : When you have two ideas that are independent use although, because, when, if to connect two clauses. Example: Although I am hungly, I want to go home. If he was tired, he could have not waited.
+2. **Subordination** — When you have two ideas where one depends on the other, use although, because, when, if, etc. Example: Although I am hungry, I want to go home. If he was tired, he could not have waited.
 
-3. **Punctuation Connection** : Use the semicolon to join two clauses that are independent but related. Example: "I am tired of living broke; I want to earn my own money," He whispered.
+3. **Punctuation Connection** — Use a semicolon to join two independent but related clauses. Example: "I am tired of living broke; I want to earn my own money," he whispered.
 
-** Its Vs It's**
+**Its vs. It's**
 
-1. **Its** : Possesive pronoun. Example: The dog wagged its tail.
-
-2. **It's** : Contraction of: it is or it has. Example: It's been a month contracted from it has been a month.
+1. **Its** — Possessive pronoun. Example: The dog wagged its tail.
+2. **It's** — Contraction of "it is" or "it has." Example: It's been a month, contracted from "it has been a month."
 
 ---
 
-## **Date: June, 31-2026**
+## Date: July, 30-2026
 
-*Collocation* are words that naturally go together. Examples:
+*Collocations* are words that naturally go together. Examples:
 
 - Sit an exam
 - Take an exam
-- Finish and exam(this is wrong)
+- Finish an exam  = wrong collocation (should be "sit" or "take," not "finish")
 
-Vague and specific words. Examples:
+**Vague vs. specific wording.** Examples:
 
-- doing nothing (vague). Limitted contex provided
+- doing nothing (vague — limited context provided)
 - doing nothing but wait for this day (more specific)
 
-A full sentence: Since sitting for his final exam, Daev has done nothing but wait for this day.
+Full sentence: Since sitting his final exam, Daev has done nothing but wait for this day.
 
-Improve on the following areas:
+Areas to improve:
 
 - Past perfect tense
 - Giving specific explanations
-- Avoid adverbs (they give weak explanations)
-- Use correct modifier placement eg talk about Daev and not the month eg. Since sitting for his final exam, it had been a month.
+- Avoiding adverbs (they give weak explanations)
+- Correct modifier placement — keep the sentence focused on Daev, not the month. Example: Since sitting his final exam, it had been a month.
 
-Gerund - A verb ending in "ing" to form a noun. Examples:
+**Gerund** — A verb ending in "-ing" used as a noun. Examples:
 
 - Going to school
 - Coming back home
 - Waking up
 
-Always use active voice. Examples to compare:
+**Always use active voice.** Compare:
 
-- He was startled by a noise (passive voice)
-- The noise startled him (active voice)
-- At that moment, Daev was snapped back to realityh by a commotion outside(wrong)
-- Correct vesion: At that moment, a commotion outside snapped him back to reality.
+- He was startled by a noise. (passive voice)
+- The noise startled him. (active voice)
+- At that moment, Daev was snapped back to reality by a commotion outside. (passive — avoid)
+- Correct version: At that moment, a commotion outside snapped him back to reality.
+
+## Date: Aug, 05-2026
+
+- Weak verb phrases are phrases where take, make, give, have carry the action. Instead we need a precise verb. Examples:
+    
+    1. took a peek - peeked
+    2. took a walk - walked
+    3. made a decision - decided
+    4. had a rest - rested
+
+- Always trust the reader and cut some redundant information.
+
+- In a list, items should carry roughly equal weights. Rule of emphasis applies to the last item, The item carries more weight than the rest; it is the most important. Example: 
+
+    - His brothers, two sisters, parents, and grandmother Shosh were waiting. 
+
+- A writer should know their characters well and the writer should never get lost in the middle of a story.

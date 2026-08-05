@@ -7,4 +7,6 @@ For a moment, he stood still. The cold morning air pricked his skin, against the
 
 He looked back at his bed, standing there longer than he intended. For more than ten years, he had slept on it through cold nights, early dawns, and restless evenings.Today was the day he would leave it behind.
 
-"If I leave this place," he whispered, "I will never come back. I am tired of living broke; I want to make my own money." Since sitting for his final exam, Daev had done nothing but wait for this day. After four years of waking up, going to school, and coming back home, he was free. At that moment, a commotion outside snapped him back to reality.
+"If I leave this place," he whispered, "I will never come back. I am tired of living broke; I want to make my own money." Since sitting for his final exam, Daev had done nothing but wait for this day. After four years of waking up, going to school, and coming back home, he was free.
+
+ At that moment, a commotion outside snapped him back to reality. He peeked through the small strip opening at his window. His brother, two sisters, parents, and grandmother Shosh were waiting.

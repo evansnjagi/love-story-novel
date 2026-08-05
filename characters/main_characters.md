@@ -56,7 +56,7 @@ The following are the supporting characters with clear roles to support the hero
     - **Name** - Gidi
     - **Purpose** - Advice, Humor, Emotional-supporter and Inciter.
 
-**Gidi** is a childhood friend who knows his pain. He talks to the protagonist frequently to know how he's fairing on with life. 
+**Gidi** is a childhood friend who knows his pain. He talks to the protagonist to know how he's fairing on. 
 
 2. **Family member:**
 
@@ -77,3 +77,8 @@ The following are the supporting characters with clear roles to support the hero
 
     - **Name** - Davie
     - **Purpose** - Wisdom, guidance and hidden truth.
+
+6. **Grandparent:**
+
+    - **Name** - Shosh
+    - **Purpose** - Guidance, wisdom, prayers and hope.
