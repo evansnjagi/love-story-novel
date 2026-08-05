@@ -34,11 +34,9 @@ Example of the tree structure:
 5 directories, 6 files
 ```
 
-Folder details:
+## Progress
+- chapter one
 
-- chapters/ -> Story chapters.
-- characters/ -> Character profiles.
-- world/ -> Settings, locations and timelines.
-- notes/ -> Build ideas and brainstorming.
-- outline.md -> Story roadmap.
+## Author
 
+Evans N. Karago © 2026
