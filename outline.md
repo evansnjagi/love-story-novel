@@ -1,15 +1,11 @@
-# Story outline
-
-## Title
-Lost lover novel
+# Lost lover
 
 ## Genre
 
 Romance/ Emotional drama/ Tragedy
 
 ## Core premise
-
-A young man, who once had nothing, unexpectedly finds the love of his life at his lowest point. But just as he begun to rebuild the world around her, she disappears when he needed her the most, forcing him into a painful journey of love, loss, and self-discovery.
+Daev moves out to start life in a new city: Necta. With time, he finds a lover, but she leaves. Daev is left frustrated. He have to find a way to make his life worth living,again.
 
 
 ## Themes
@@ -28,7 +24,9 @@ A young man, who once had nothing, unexpectedly finds the love of his life at hi
 
 ### Act 1: The empty life
 
-After finishing school, Daev moves to a rapidly growing town called *Necta*. He starts his new life there with almost nothing. Life in Necta is difficult, filled with poverty, unemployment, theft, corruption, and constant struggles, but Daev refuses to give up.
+After sitting for his final exam,Daev moved to Necta and started a new life. With hope, trust, and ambitions, he got a job; one which paid for his rent, domestic bills, and little to support his family back home.
 
-As time passes, he begins to feel a deep emotional emptiness growing inside him. Despite the warmth of the people around him, he feels isolated. At times, he is tempted to escape his pain through drugs, but something inside him continue to resist.
+Later, Daev reunited with an old friend. This friend becomes a burden to him physically and emotionally. While he was struggling and working hard to earn money so that they can paying bills, his friend was moving from club to pub drinking alcohol and many times wasting himself. 
+
+Daev gets tired, he decided to go to the university and advance his education. With education, he believes, comes better opportunities.
 
